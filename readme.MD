@@ -1,6 +1,4 @@
-Here’s a ready-to-paste `README.md` for your project 👇
 
-````markdown
 # Chatbot Android App (Gemini + Jetpack Compose)
 
 A simple WhatsApp-style chat application built with **Kotlin**, **Jetpack Compose**, and **Retrofit**, that connects to **Google Gemini** using its **OpenAI-compatible API**.
@@ -205,8 +203,8 @@ data class OpenAiChatResponse(
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/MobileAppsDevelopment2025II/chatbot.git
+   cd chatbot
    ```
 
 2. **Create and fill `local.properties`**
@@ -238,13 +236,4 @@ data class OpenAiChatResponse(
 
 ---
 
-## License
-
-You can add your preferred license here (MIT, Apache 2.0, etc.).
-
-```
-
-Si quieres, después podemos ajustar el README con el nombre real de tu repo y poner capturas de pantalla del chat funcionando.
-::contentReference[oaicite:0]{index=0}
-```
 
